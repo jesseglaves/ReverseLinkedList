@@ -1,5 +1,3 @@
-using System;
-
 public class ListNode
 {
     public int Val;
